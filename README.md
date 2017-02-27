@@ -1,2 +1,3 @@
 # Hello-world
-test descriptio
+test description
+# corrected the typo
